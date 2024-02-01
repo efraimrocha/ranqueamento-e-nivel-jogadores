@@ -1,4 +1,4 @@
-Desafio de Lógica de Programação - Calculadora de Rank
+#Desafio de Lógica de Programação - Calculadora de Rank
 Objetivo:
 O objetivo deste desafio é criar uma função em JavaScript que receba a quantidade de vitórias e derrotas de um jogador e calcule seu saldo de ranqueadas com base na fórmula (vitórias - derrotas). Além disso, a função deve determinar o nível do jogador com base em faixas predefinidas de vitórias e exibir uma mensagem de saída informando o saldo e o nível alcançado.
 
